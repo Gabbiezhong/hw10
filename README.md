@@ -1,4 +1,4 @@
-Hi, My name is Punch Punch!
+# Punch Punch
 
 Readme for Mac OS X:
 
