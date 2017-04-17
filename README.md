@@ -1,4 +1,6 @@
-Readme for Punch Punch Bot:
+Hi, My name is Punch Punch!
+
+Readme for Mac OS X:
 
 * install Python: http://docs.python-guide.org/en/latest/starting/install/osx/
 * in the "embodied" directory run: sudo python -m SimpleHTTPServer 80
